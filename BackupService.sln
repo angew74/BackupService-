@@ -5,6 +5,12 @@ VisualStudioVersion = 15.0.28010.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackupService", "BackupService\BackupService.csproj", "{9BED221B-4C86-4ECC-BE31-F221CAEA47E0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConfigurationWindowServiceBackup", "ConfigurationWindowServiceBackup\ConfigurationWindowServiceBackup.csproj", "{12A6426A-7A18-40DD-92FC-C87E55896E25}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SQLiteDB", "SQLiteDB\SQLiteDB.csproj", "{34373930-A276-4A8F-B82E-99D10A92C979}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GDriveService", "GDriveService\GDriveService.csproj", "{98AF890A-ED5F-4ABD-9BB8-3903C808B8B5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +21,18 @@ Global
 		{9BED221B-4C86-4ECC-BE31-F221CAEA47E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9BED221B-4C86-4ECC-BE31-F221CAEA47E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9BED221B-4C86-4ECC-BE31-F221CAEA47E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12A6426A-7A18-40DD-92FC-C87E55896E25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12A6426A-7A18-40DD-92FC-C87E55896E25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12A6426A-7A18-40DD-92FC-C87E55896E25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12A6426A-7A18-40DD-92FC-C87E55896E25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34373930-A276-4A8F-B82E-99D10A92C979}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34373930-A276-4A8F-B82E-99D10A92C979}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34373930-A276-4A8F-B82E-99D10A92C979}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34373930-A276-4A8F-B82E-99D10A92C979}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98AF890A-ED5F-4ABD-9BB8-3903C808B8B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98AF890A-ED5F-4ABD-9BB8-3903C808B8B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98AF890A-ED5F-4ABD-9BB8-3903C808B8B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98AF890A-ED5F-4ABD-9BB8-3903C808B8B5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
